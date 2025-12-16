@@ -91,7 +91,7 @@ html {
 .navigation.fixed {
   position: fixed;
   top: 0;
-  width: %;
+
   z-index: 1000;
 }
 
